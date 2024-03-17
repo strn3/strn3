@@ -1,4 +1,4 @@
-<svg width="190" height="56" viewBox="0 0 190 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg id="animated-svg" width="190" height="56" viewBox="0 0 190 56" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     @keyframes draw {
       to {
@@ -18,3 +18,10 @@
   <path d="M95 22.5H100H110.5" stroke="black"/>
   <path d="M158 47L169.5 24L169 20.5L164.5 36L176 27.5L179.5 25L182.5 24L175.5 38.5L174.5 41.5V44.5L176.5 45.5L179 44.5L182 43L184 41L186.5 38.5L188 37L189 36" stroke="black"/>
 </svg>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var svg = document.getElementById("animated-svg");
+    svg.innerHTML = svg.innerHTML;
+  });
+</script>
