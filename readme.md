@@ -2,4 +2,4 @@
     <img src="./final.svg" alt="SVG Image" style="margin: auto; width: 500px; height: 360px;">
 </div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=melker23&hide_border=true&theme=transparent)
+![](https://github-readme-streak-stats.herokuapp.com/?user=strn3&hide_border=true&theme=transparent)
